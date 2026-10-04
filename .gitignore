@@ -1,0 +1,12 @@
+packaging/.cache/
+packaging/build/
+dist/
+__pycache__/
+*.pyc
+settings.json
+*.log
+*.log.[0-9]
+*.deb
+*.AppImage
+cookies*.txt
+.env

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=yt-dlp GTK
+Comment=Download videos and audio with yt-dlp
+Exec=ytdlp-gtk
+Icon=local.ytdlp.gtk
+Terminal=false
+Categories=AudioVideo;
+StartupWMClass=local.ytdlp.gtk
